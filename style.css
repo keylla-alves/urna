@@ -4,29 +4,26 @@
 }
 .urna{
     display: flex;
-    background-color: rgba(0, 0, 0, 0.315);
-    box-shadow: inset 9px 1px 100px 1px rgba(13, 12, 12, 0.5);
     align-items: center;
     text-align: center;
     justify-content: center;
     margin-top: 100px;
     padding: 50px;
-    width: 50%;
+    
 }
 .titulo{
     text-align: center;
     gap: 5px;
 }
 .botoes{
-    justify-content: center;
     align-items: center;
     margin: 10px;
     padding: 10px 25px;
-    
+    background-color: rgba(0, 0, 0, 0.315);
 }
 .confirmar{
-justify-content: 
-display flex;
+display: flex;
+align-items: center;
 }
 .br{
     background-color: white;
